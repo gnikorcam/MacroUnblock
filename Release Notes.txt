@@ -1,0 +1,11 @@
+** Macro Unblock **
+
+
+v.1.0
+
+- Requires .NET 2.0
+- Runs in the background (tray icon)
+- Works at any resolution
+- Fast reponse time
+- 95% success rate
+- Simple logging
